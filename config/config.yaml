@@ -144,37 +144,6 @@ rss:
       name: "MarketBeat 即时快讯"
       url: "https://www.marketbeat.com/rss/instant-alerts.xml"
 
-    - id: "ft-markets"
-      name: "FT Markets"
-      url: "https://www.ft.com/markets?format=rss"
-
-    - id: "jrj-jqql"
-      name: "机会情报"
-      url: "https://rss.jrj.com.cn/stock/机会情报.xml"
-
-    - id: "jrj-ztyc"
-      name: "涨停预测"
-      url: "https://rst.jrj.com.cn/stock/涨停预测.xml"
-
-    - id: "jrj-jyt-bktt"
-      name: "交易提示-报刊头条"
-      url: "https://rss.jrj.com.cn/stock/交易提示-报刊头条.xml"
-
-    - id: "jrj-dp-sjzj"
-      name: "大盘频道-市况直击"
-      url: "https://rss.jrj.com.cn/stock/市况直击.xml"
-
-    - id: "jrj-dp-jrgc"
-      name: "大盘频道-今日观察"
-      url: "https://rss.jrj.com.cn/stock/今日观察.xml"
-
-    - id: "jrj-dp-scfx"
-      name: "大盘频道-市场分析"
-      url: "https://rss.jrj.com.cn/stock/市场分析.xml"
-
-    - id: "jrj-rg-gyyd"
-      name: "热股-个股异动"
-      url: "https://rss.jrj.com.cn/stock/个股异动.xml"
 
     # 自定义源示例
     # - id: "custom-feed"
