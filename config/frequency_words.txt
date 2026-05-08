@@ -49,8 +49,6 @@
 #                         企业与品牌
 # ═════════════════════════════════════════════════════════════════════════
 
-/胖东来|于东来/ => 胖东来
-
 /深度求索|幻方量化|梁文锋|\bDeepSeek\b/ => DeepSeek
 
 /华为|任正非|余承东|鸿蒙|海思|昇腾|鲲鹏|\bHUAWEI\b|\bHarmonyOS\b|\bHiSilicon\b/ => 华为
@@ -92,6 +90,14 @@
 /\bOpenAI\b|\bChatGPT\b|\bSora\b|\bDALL-E\b|\bSam Altman\b|\bGreg Brockman\b/ => OpenAI
 /\bAnthropic\b|\bClaude\b|\bDario Amodei\b/ => Claude
 
+有色金属
+化工
+石油
+期货
+美股
+A股
+cpo
+pcb
 
 # ═════════════════════════════════════════════════════════════════════════
 #                         国家与地区
@@ -105,6 +111,8 @@
 日本
 朝鲜
 韩国
+越南
+新加坡
 
 [北美]
 美国
