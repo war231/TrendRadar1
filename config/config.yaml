@@ -173,7 +173,7 @@ rss:
       url: "https://rss.jrj.com.cn/stock/市场分析.xml"
 
     - id: "jrj-rg-gyyd"
-     名字: "热股-个股异动"
+      name: "热股-个股异动"
       url: "https://rss.jrj.com.cn/stock/个股异动.xml"
 
     # 自定义源示例
